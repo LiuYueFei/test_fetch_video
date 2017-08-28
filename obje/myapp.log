@@ -1,0 +1,11 @@
+Fri, 25 Aug 2017 15:58:39 log_test.py[line:18] DEBUG This is debug message
+Fri, 25 Aug 2017 15:58:39 log_test.py[line:19] INFO This is info message
+Fri, 25 Aug 2017 15:58:39 log_test.py[line:20] WARNING This is warning message
+Fri, 25 Aug 2017 16:00:29 log_test.py[line:7] DEBUG This is debug message
+Fri, 25 Aug 2017 16:00:29 log_test.py[line:8] INFO This is info message
+Fri, 25 Aug 2017 16:00:29 log_test.py[line:9] WARNING This is warning message
+example02   : INFO     This is info message
+example02   : WARNING  This is warning message
+Fri, 25 Aug 2017 16:00:58 log_test.py[line:7] DEBUG This is debug message
+Fri, 25 Aug 2017 16:00:58 log_test.py[line:8] INFO This is info message
+Fri, 25 Aug 2017 16:00:58 log_test.py[line:9] WARNING This is warning message
